@@ -55,22 +55,26 @@ JSON: package: "_readme_package.json" -->
 </details>
 
 [![-----------------------------------------------------](assets/line.png)](#demo)
+
 ## Demo
-<p align="center">
- <a href="#"> <img align="center" width="800px"
-    src="assets/demo.gif"
-    alt="demo" />
-</a></p>
+
+<p align="center"><a href="#"><img align="center" width="800px" src="assets/demo.gif" alt="demo" /></a></p>
 
 [![-----------------------------------------------------](assets/line.png)](#about-the-project)
+
 ## About The Project
+
 This tool aims to search multiple keywords in several sites' search engines simultaneously, with optional templates for different usage scenarios, such as researching various concepts or searching for books with numerous difficulties in the same field.
 
+
 ### Supported Sites 
+
 A list of supported sites is shown below:
 * Links* Amazon_Book* Arxiv* Baidu_Fanyi* Bilibili* Bing-EN* Bing-Photo* Britannica* Collins* Connected_Papers* Coursera* Dangdang* Dict-Cambridge-EN* Dict-Cambridge-EN&CN* Dict-Longman* Douban-Book* Douban-Movie* edx* Eric_Library* Etymology* Eudic* Freedict_Synonym* Github* Google_Image* Google_Scholar* Google* Icons8* IEEE* IMDB* iTuring* Library_of_Congress* Mit_Library* MIT_OCW* oxford* Quora* Stanford_Library* The_British_Library* Wikihow* Wikipedia* Wolfram* Yale_Library* Youglish* Youtube* Zhihu
 
+
 ### Built With
+
 <p align="left">
 <table border="00" width="100%" style="margin: 0px;" id="badge" cellspacing="0">
   <tr>
@@ -83,15 +87,21 @@ A list of supported sites is shown below:
 </p>
 
 [![-----------------------------------------------------](assets/line.png)](#getting-started)
+
 ## Getting Started
 
+
+
 ### Prerequisites
+
 Make sure your system satisties one of the following versions:
 * `macOS` >=11.0
 * `iOS` >=14.0
 * `iPadOS` >= 14.0
 
+
 ### Installation
+
 Install **Shortcuts Version** by simply click the following button and follow the steps shown in the `iCloud.com`:
 <br>
 <div align="center">
@@ -101,14 +111,18 @@ Install **Shortcuts Version** by simply click the following button and follow th
 <br>
 
 [![-----------------------------------------------------](assets/line.png)](#usage)
+
 ## Usage
+
 1. Click to run the `Multisearch_Tool_Share` in Shortcuts
 2. Input different keywords you want to search to the text box by split them up to lines.
 3. choose the template you would like to use, or click `Custom` to choose multiple sites from a list of supported sites.
 4. Wait the browser to open the searched result in different tabs. The first time you use this tool should give permission of accessing the sites you choose to the `Shortcuts.app`
 
 [![-----------------------------------------------------](assets/line.png)](#author-)
+
 ## Author 
+
 <p align="left">
 <table border="00" width="100%" style="margin: 0px;" id="badge" cellspacing="0">
     <tr>
@@ -125,14 +139,20 @@ Install **Shortcuts Version** by simply click the following button and follow th
 </p>
 
 [![-----------------------------------------------------](assets/line.png)](#how-can-i-support-you)
+
 ## How can I support you?
+
 There are lots of ways to support me! I would be so happy if you gave this repository a ⭐️, and told your friends about this little corner of the Internet
 
 [![-----------------------------------------------------](assets/line.png)](#acknowledgments)
+
 ## Acknowledgments
 
+
 [![-----------------------------------------------------](assets/line.png)](#license)
+
 ## License
+
 
 [MIT](https://opensource.org/licenses/MIT)
 Copyright © 2022-present, Renhong Zhang
