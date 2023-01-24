@@ -4,26 +4,11 @@ Markdown: input: "_readme_blueprint.md"
 JSON: input config: "_readme_blueprint.json" 
 JSON: config data: "config_data.json" 
 JSON: package: "_readme_package.json" -->
-<style>
-  td,
-  th {
-    border: none !important;
-  }
-  table#badge {
-    border-collapse: separate;
-    border-spacing: 0 0px;
-  }
-  footer summary {
-    display: inline;
-  }
-  img#avatar {
-    border-radius: 50%;
-  }
-</style>
+
 <br />
 <div align="center">
   <a href="https://github.com/renhong-zhang/quick-search-tool">
-    <img style="max-height:150px; max-width:300px; overflow: hidden" src="assets/logo.png" alt="Logo">
+    <img height="150px" src="assets/logo.png" alt="Logo">
   </a>
   <h3 align="center">@renhong-zhang/quick-search-tool</h3>
   <p align="center">
@@ -63,29 +48,44 @@ JSON: package: "_readme_package.json" -->
 </table>
 </p>
 
-[![-----------------------------------------------------](assets/line.png)](#table-of-contents)<details open>
+[![-----------------------------------------------------](assets/line.png)](#table-of-contents)
+<details open>
 	<summary><big><b>Table of Contents</big></b></summary>
 	<ol>
-		<li><a href="#demo">Demo</a></li><li><a href="#about-the-project">About The Project</a></li><ul><li><a href="#supported-sites-">Supported Sites </a></li></ul><ul><li><a href="#built-with">Built With</a></li></ul><li><a href="#getting-started">Getting Started</a></li><ul><li><a href="#prerequisites">Prerequisites</a></li></ul><ul><li><a href="#installation">Installation</a></li></ul><li><a href="#usage">Usage</a></li><li><a href="#author-">Author </a></li><li><a href="#how-can-i-support-you">How can I support you?</a></li><li><a href="#acknowledgments">Acknowledgments</a></li><li><a href="#license">License</a></li>
+		<li><a href="#demo">Demo</a></li>
+<li><a href="#about-the-project">About The Project</a></li>
+<ul><li><a href="#supported-sites-">Supported Sites </a></li></ul>
+<ul><li><a href="#built-with">Built With</a></li></ul>
+<li><a href="#getting-started">Getting Started</a></li>
+<ul><li><a href="#prerequisites">Prerequisites</a></li></ul>
+<ul><li><a href="#installation">Installation</a></li></ul>
+<li><a href="#usage">Usage</a></li>
+<li><a href="#author-">Author </a></li>
+<li><a href="#how-can-i-support-you">How can I support you?</a></li>
+<li><a href="#acknowledgments">Acknowledgments</a></li>
+<li><a href="#license">License</a></li>
 	</ol>
 </details>
 
-[![-----------------------------------------------------](assets/line.png)](#demo)## Demo
+[![-----------------------------------------------------](assets/line.png)](#demo)
+## Demo
 <p align="center">
- <a href="#"> <img align="center" style="max-width:800; overflow: hidden"
+ <a href="#"> <img align="center" width="800px"
     src="assets/demo.gif"
     alt="demo" />
 </a></p>
 
-[![-----------------------------------------------------](assets/line.png)](#about-the-project)## About The Project
+[![-----------------------------------------------------](assets/line.png)](#about-the-project)
+## About The Project
 This tool aims to search multiple keywords in several sites' search engines simultaneously, with optional templates for different usage scenarios, such as researching various concepts or searching for books with numerous difficulties in the same field.
 ### Supported Sites 
 A list of supported sites is shown below:
 <p align="center">
- <a href="#"> <img align="center" style="max-width:800; overflow: hidden"
+ <a href="#"> <img align="center" width="800px"
     src="assets/Supported_Sites.png"
     alt="Supported Sites" />
 </a></p>
+
 ### Built With
 <p align="left">
 <table border="00" width="100%" style="margin: 0px;" id="badge" cellspacing="0">
@@ -98,7 +98,8 @@ A list of supported sites is shown below:
 </table>
 </p>
 
-[![-----------------------------------------------------](assets/line.png)](#getting-started)## Getting Started
+[![-----------------------------------------------------](assets/line.png)](#getting-started)
+## Getting Started
 ### Prerequisites
 Make sure your system satisties one of the following versions:
 * `macOS` >=11.0
@@ -113,13 +114,15 @@ Install **Shortcuts Version** by simply click the following button and follow th
 </div>
 <br>
 
-[![-----------------------------------------------------](assets/line.png)](#usage)## Usage
+[![-----------------------------------------------------](assets/line.png)](#usage)
+## Usage
 1. Click to run the `Multisearch_Tool_Share` in Shortcuts
 2. Input different keywords you want to search to the text box by split them up to lines.
 3. choose the template you would like to use, or click `Custom` to choose multiple sites from a list of supported sites.
 4. Wait the browser to open the searched result in different tabs. The first time you use this tool should give permission of accessing the sites you choose to the `Shortcuts.app`
 
-[![-----------------------------------------------------](assets/line.png)](#author-)## Author 
+[![-----------------------------------------------------](assets/line.png)](#author-)
+## Author 
 <p align="left">
 <table border="00" width="100%" style="margin: 0px;" id="badge" cellspacing="0">
     <tr>
@@ -135,12 +138,15 @@ Install **Shortcuts Version** by simply click the following button and follow th
 </table>
 </p>
 
-[![-----------------------------------------------------](assets/line.png)](#how-can-i-support-you)## How can I support you?
+[![-----------------------------------------------------](assets/line.png)](#how-can-i-support-you)
+## How can I support you?
 There are lots of ways to support me! I would be so happy if you gave this repository a ⭐️, and told your friends about this little corner of the Internet
 
-[![-----------------------------------------------------](assets/line.png)](#acknowledgments)## Acknowledgments
+[![-----------------------------------------------------](assets/line.png)](#acknowledgments)
+## Acknowledgments
 
-[![-----------------------------------------------------](assets/line.png)](#license)## License
+[![-----------------------------------------------------](assets/line.png)](#license)
+## License
 
 [MIT](https://opensource.org/licenses/MIT)
 Copyright © 2022-present, Renhong Zhang
