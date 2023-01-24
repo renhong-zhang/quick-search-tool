@@ -7,7 +7,7 @@ JSON: package: "_readme_package.json" -->
 <br />
 <div align="center">
   <a href="https://github.com/renhong-zhang/quick-search-tool">
-    <img style="max-height:150px; max-width:300px; overflow: hidden" src="assets/logo.png" alt="Logo">
+    <img height="150px" src="assets/logo.png" alt="Logo">
   </a>
   <h3 align="center">@renhong-zhang/quick-search-tool</h3>
   <p align="center">
