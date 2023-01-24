@@ -70,7 +70,7 @@ JSON: package: "_readme_package.json" -->
 
 ## Demo
 
-<img align="center" width="800px" src="assets/demo.gif" alt="demo" />
+<img align="center" width="800px" src="assets/demo.GIF" alt="demo" />
 
 [![-----------------------------------------------------](assets/line.png)](#about-the-project)
 
