@@ -27,7 +27,7 @@ JSON: package: "_readme_package.json" -->
   </p>
 </div>
 <p align="left">
-<table border="00" width="100%" style="margin: 0px;" id="badge" cellspacing="0">
+<table border="0" width="100%" id="badge" cellspacing="0" cellpadding="0">
   <tr>
     <td>Prerequisites</td>
     <td><a href="#"><img alt="macOS" src="https://img.shields.io/badge/macOS-%3E%3D11.0-blue?&style=flat-square" height="20" /></a> / <a href="#"><img alt="iOS" src="https://img.shields.io/badge/iOS-%3E%3D14.0-blue?&style=flat-square" height="20" /></a> / <a href="#"><img alt="iPadOS" src="https://img.shields.io/badge/iPadOS-%3E%3D14.0-blue?&style=flat-square" height="20" /></a></td>
@@ -47,7 +47,8 @@ JSON: package: "_readme_package.json" -->
 </table>
 </p>
 
-[![-----------------------------------------------------](assets/line.png)](#table-of-contents)<details open>
+[![-----------------------------------------------------](assets/line.png)](#table-of-contents)
+<details open>
 	<summary><big><b>Table of Contents</big></b></summary>
 	<ol>
 		<li><a href="#demo">Demo</a></li><li><a href="#about-the-project">About The Project</a></li><ul><li><a href="#supported-sites-">Supported Sites </a></li></ul><ul><li><a href="#built-with">Built With</a></li></ul><li><a href="#getting-started">Getting Started</a></li><ul><li><a href="#prerequisites">Prerequisites</a></li></ul><ul><li><a href="#installation">Installation</a></li></ul><li><a href="#usage">Usage</a></li><li><a href="#author-">Author </a></li><li><a href="#how-can-i-support-you">How can I support you?</a></li><li><a href="#acknowledgments">Acknowledgments</a></li><li><a href="#license">License</a></li>
@@ -56,11 +57,13 @@ JSON: package: "_readme_package.json" -->
 
 [![-----------------------------------------------------](assets/line.png)](#demo)
 
+
 ## Demo
 
 <p align="center"><a href="#"><img align="center" width="800px" src="assets/demo.GIF" alt="demo" /></a></p>
 
 [![-----------------------------------------------------](assets/line.png)](#about-the-project)
+
 
 ## About The Project
 
@@ -76,7 +79,7 @@ A list of supported sites is shown below:
 ### Built With
 
 <p align="left">
-<table border="00" width="100%" style="margin: 0px;" id="badge" cellspacing="0">
+<table border="0" width="100%" id="badge" cellspacing="0" cellpadding="0">
   <tr>
     <td><b>Major Frameworks/Libraries</b></td>
     <td>
@@ -87,6 +90,7 @@ A list of supported sites is shown below:
 </p>
 
 [![-----------------------------------------------------](assets/line.png)](#getting-started)
+
 
 ## Getting Started
 
@@ -112,6 +116,7 @@ Install **Shortcuts Version** by simply click the following button and follow th
 
 [![-----------------------------------------------------](assets/line.png)](#usage)
 
+
 ## Usage
 
 1. Click to run the `Multisearch_Tool_Share` in Shortcuts
@@ -121,10 +126,11 @@ Install **Shortcuts Version** by simply click the following button and follow th
 
 [![-----------------------------------------------------](assets/line.png)](#author-)
 
+
 ## Author 
 
 <p align="left">
-<table border="00" width="100%" style="margin: 0px;" id="badge" cellspacing="0">
+<table border="0" width="100%" style="margin: 0px;" id="badge" cellspacing="0">
     <tr>
         <td width="20%">
             <a href="https://github.com/renhong-zhang"><img width="100%" align="top-left"
@@ -140,19 +146,23 @@ Install **Shortcuts Version** by simply click the following button and follow th
 
 [![-----------------------------------------------------](assets/line.png)](#how-can-i-support-you)
 
+
 ## How can I support you?
 
 There are lots of ways to support me! I would be so happy if you gave this repository a ⭐️, and told your friends about this little corner of the Internet
 
 [![-----------------------------------------------------](assets/line.png)](#acknowledgments)
 
+
 ## Acknowledgments
 
 
 [![-----------------------------------------------------](assets/line.png)](#license)
 
+
 ## License
 
 
 [MIT](https://opensource.org/licenses/MIT)
+
 Copyright © 2022-present, Renhong Zhang
