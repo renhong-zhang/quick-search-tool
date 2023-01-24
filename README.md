@@ -47,10 +47,22 @@ JSON: package: "_readme_package.json" -->
 </table>
 </p>
 
-[![-----------------------------------------------------](assets/line.png)](#table-of-contents)<details open>
+[![-----------------------------------------------------](assets/line.png)](#table-of-contents)
+<details open>
 	<summary><big><b>Table of Contents</big></b></summary>
 	<ol>
-		<li><a href="#demo">Demo</a></li><li><a href="#about-the-project">About The Project</a></li><ul><li><a href="#supported-sites-">Supported Sites </a></li></ul><ul><li><a href="#built-with">Built With</a></li></ul><li><a href="#getting-started">Getting Started</a></li><ul><li><a href="#prerequisites">Prerequisites</a></li></ul><ul><li><a href="#installation">Installation</a></li></ul><li><a href="#usage">Usage</a></li><li><a href="#author-">Author </a></li><li><a href="#how-can-i-support-you">How can I support you?</a></li><li><a href="#acknowledgments">Acknowledgments</a></li><li><a href="#license">License</a></li>
+		<li><a href="#demo">Demo</a></li>
+<li><a href="#about-the-project">About The Project</a></li>
+<ul><li><a href="#supported-sites-">Supported Sites </a></li></ul>
+<ul><li><a href="#built-with">Built With</a></li></ul>
+<li><a href="#getting-started">Getting Started</a></li>
+<ul><li><a href="#prerequisites">Prerequisites</a></li></ul>
+<ul><li><a href="#installation">Installation</a></li></ul>
+<li><a href="#usage">Usage</a></li>
+<li><a href="#author-">Author </a></li>
+<li><a href="#how-can-i-support-you">How can I support you?</a></li>
+<li><a href="#acknowledgments">Acknowledgments</a></li>
+<li><a href="#license">License</a></li>
 	</ol>
 </details>
 
@@ -58,7 +70,7 @@ JSON: package: "_readme_package.json" -->
 
 ## Demo
 
-<p align="center"><a href="#"><img align="center" width="800px" src="assets/demo.gif" alt="demo" /></a></p>
+<img align="center" width="800px" src="assets/demo.gif" alt="demo" />
 
 [![-----------------------------------------------------](assets/line.png)](#about-the-project)
 
@@ -70,7 +82,50 @@ This tool aims to search multiple keywords in several sites' search engines simu
 ### Supported Sites 
 
 A list of supported sites is shown below:
-* Links* Amazon_Book* Arxiv* Baidu_Fanyi* Bilibili* Bing-EN* Bing-Photo* Britannica* Collins* Connected_Papers* Coursera* Dangdang* Dict-Cambridge-EN* Dict-Cambridge-EN&CN* Dict-Longman* Douban-Book* Douban-Movie* edx* Eric_Library* Etymology* Eudic* Freedict_Synonym* Github* Google_Image* Google_Scholar* Google* Icons8* IEEE* IMDB* iTuring* Library_of_Congress* Mit_Library* MIT_OCW* oxford* Quora* Stanford_Library* The_British_Library* Wikihow* Wikipedia* Wolfram* Yale_Library* Youglish* Youtube* Zhihu
+* Links
+* Amazon_Book
+* Arxiv
+* Baidu_Fanyi
+* Bilibili
+* Bing-EN
+* Bing-Photo
+* Britannica
+* Collins
+* Connected_Papers
+* Coursera
+* Dangdang
+* Dict-Cambridge-EN
+* Dict-Cambridge-EN&CN
+* Dict-Longman
+* Douban-Book
+* Douban-Movie
+* edx
+* Eric_Library
+* Etymology
+* Eudic
+* Freedict_Synonym
+* Github
+* Google_Image
+* Google_Scholar
+* Google
+* Icons8
+* IEEE
+* IMDB
+* iTuring
+* Library_of_Congress
+* Mit_Library
+* MIT_OCW
+* oxford
+* Quora
+* Stanford_Library
+* The_British_Library
+* Wikihow
+* Wikipedia
+* Wolfram
+* Yale_Library
+* Youglish
+* Youtube
+* Zhihu
 
 
 ### Built With
