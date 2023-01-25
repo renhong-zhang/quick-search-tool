@@ -30,11 +30,11 @@ JSON: package: "_readme_package.json" -->
 <table border="0" width="100%" id="badge" cellspacing="0" cellpadding="0">
   <tr>
     <td>Prerequisites</td>
-    <td><a href="#"><img alt="macOS" src="https://img.shields.io/badge/macOS-%3E%3D11.0-blue?&style=flat-square" height="20" /></a> / <a href="#"><img alt="iOS" src="https://img.shields.io/badge/iOS-%3E%3D14.0-blue?&style=flat-square" height="20" /></a> / <a href="#"><img alt="iPadOS" src="https://img.shields.io/badge/iPadOS-%3E%3D14.0-blue?&style=flat-square" height="20" /></a></td>
+    <td><a href=""><img alt="macOS" src="https://img.shields.io/badge/macOS-%3E%3D11.0-blue?&style=flat-square" height="20" /></a> / <a href=""><img alt="iOS" src="https://img.shields.io/badge/iOS-%3E%3D14.0-blue?&style=flat-square" height="20" /></a> / <a href=""><img alt="iPadOS" src="https://img.shields.io/badge/iPadOS-%3E%3D14.0-blue?&style=flat-square" height="20" /></a></td>
   </tr>
   <tr>
     <td>Languages & Tools</td>
-    <td><a href="#"><img alt="AppleScript" src="https://img.shields.io/badge/-AppleScript-blue?&style=flat-square" height="20" /></a> <a href="#"><img alt="Shortcuts" src="https://img.shields.io/badge/Apple-Shortcuts-blue?&style=flat-square" height="20" /></a></td>
+    <td><a href=""><img alt="AppleScript" src="https://img.shields.io/badge/-AppleScript-blue?&style=flat-square" height="20" /></a> <a href=""><img alt="Shortcuts" src="https://img.shields.io/badge/Apple-Shortcuts-blue?&style=flat-square" height="20" /></a></td>
   </tr>
   <tr>
     <td>License</td>
@@ -83,7 +83,7 @@ A list of supported sites is shown below:
   <tr>
     <td><b>Major Frameworks/Libraries</b></td>
     <td>
-      <a href="#"><img alt="AppleScript" src="https://img.shields.io/badge/-AppleScript-blue?&style=flat-square" height="20" /></a><br><a href="#"><img alt="Shortcuts" src="https://img.shields.io/badge/Apple-Shortcuts-blue?&style=flat-square" height="20" /></a>
+      <a href=""><img alt="AppleScript" src="https://img.shields.io/badge/-AppleScript-blue?&style=flat-square" height="20" /></a><br><a href=""><img alt="Shortcuts" src="https://img.shields.io/badge/Apple-Shortcuts-blue?&style=flat-square" height="20" /></a>
     </td>
   </tr>
 </table>
